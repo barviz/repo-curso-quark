@@ -1,0 +1,3 @@
+﻿  101PartePublicPrivate2.cpp
+C:\Users\Barbara\source\repos\101PartePublicPrivate2\101PartePublicPrivate2\101PartePublicPrivate2.cpp(24,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  101PartePublicPrivate2.vcxproj -> C:\Users\Barbara\source\repos\101PartePublicPrivate2\x64\Debug\101PartePublicPrivate2.exe
