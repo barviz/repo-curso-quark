@@ -1,0 +1,3 @@
+﻿  33WhileGastoSueldos.cpp
+C:\Users\Barbara\source\repos\33WhileGastoSueldos\33WhileGastoSueldos\33WhileGastoSueldos.cpp(12,11): warning C4101: 'promedio': variable local sin referencia
+  33WhileGastoSueldos.vcxproj -> C:\Users\Barbara\source\repos\33WhileGastoSueldos\x64\Debug\33WhileGastoSueldos.exe
