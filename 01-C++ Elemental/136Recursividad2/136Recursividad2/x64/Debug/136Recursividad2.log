@@ -1,0 +1,3 @@
+﻿  136Recursividad2.cpp
+C:\Users\Barbara\source\repos\136Recursividad2\136Recursividad2\136Recursividad2.cpp(18): warning C4717: 'Recursividad::imprimir': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  136Recursividad2.vcxproj -> C:\Users\Barbara\source\repos\136Recursividad2\x64\Debug\136Recursividad2.exe
