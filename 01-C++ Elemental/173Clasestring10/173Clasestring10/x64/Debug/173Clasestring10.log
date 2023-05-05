@@ -1,0 +1,3 @@
+﻿  173Clasestring10.cpp
+C:\Users\Barbara\source\repos\173Clasestring10\173Clasestring10\173Clasestring10.cpp(16,35): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  173Clasestring10.vcxproj -> C:\Users\Barbara\source\repos\173Clasestring10\x64\Debug\173Clasestring10.exe
